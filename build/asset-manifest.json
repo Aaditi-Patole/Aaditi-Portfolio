@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Aaditi-Portfolio/static/css/main.0502acdc.css",
+    "main.js": "/Aaditi-Portfolio/static/js/main.d2020e1f.js",
+    "static/js/453.f596ec61.chunk.js": "/Aaditi-Portfolio/static/js/453.f596ec61.chunk.js",
+    "static/media/vpn.png": "/Aaditi-Portfolio/static/media/vpn.e05f7daf7b2aada9bc3d.png",
+    "static/media/phishing.png": "/Aaditi-Portfolio/static/media/phishing.2824c36f273cdc541ba4.png",
+    "index.html": "/Aaditi-Portfolio/index.html",
+    "main.0502acdc.css.map": "/Aaditi-Portfolio/static/css/main.0502acdc.css.map",
+    "main.d2020e1f.js.map": "/Aaditi-Portfolio/static/js/main.d2020e1f.js.map",
+    "453.f596ec61.chunk.js.map": "/Aaditi-Portfolio/static/js/453.f596ec61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0502acdc.css",
+    "static/js/main.d2020e1f.js"
+  ]
+}
